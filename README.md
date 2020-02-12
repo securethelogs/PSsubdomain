@@ -4,6 +4,7 @@
 
 PSsubdomain is a real simple scripts that try to enumerate subdomains.
 
-To run, either download locally or to run remotely user: 
+<b>To run</b>
+Either download locally or to run remotely user: 
 
 powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/PSsubdomain/master/PSsubdomain.ps1’)”
