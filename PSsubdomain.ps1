@@ -67,7 +67,7 @@ $dnsfound
 
 # ----------------- CRT Checking ------------------------
 
-$test = $i.Contains("mundipharma.com<B")
+$test = $i.Contains("<B")
 
 if ($test -eq "True"){
 
